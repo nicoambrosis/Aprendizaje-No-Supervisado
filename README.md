@@ -5,7 +5,7 @@
     </h3>
 
 <p align="center">
-  <img src="https://github.com/nicoambrosis/Aprendizaje-Supervisado/blob/main/Banners%20Diplodatos.png">
+  <img src="https://github.com/nicoambrosis/Aprendizaje-No-Supervisado/blob/main/Banners%20Diplodatos.png">
 </p>
 
 
